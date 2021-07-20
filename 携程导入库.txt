@@ -1,0 +1,20 @@
+'''
+携程代码使用到的库
+'''
+# 爬虫部分
+import json
+import pickle
+import requests
+from bs4 import BeautifulSoup
+import pprint
+
+# 可视化部分
+import os
+import json
+import jieba
+import pickle
+from pyecharts import Bar
+from pyecharts import Pie
+from pyecharts import Funnel
+from wordcloud import WordCloud
+
