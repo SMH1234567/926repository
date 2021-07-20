@@ -4,7 +4,7 @@
 
 [![Python 3.7](https://img.shields.io/badge/Python-3.7-blue?style=flat-square&logo=python)](https://www.python.org/) 
 
-[![HTML Bootstrap](https://img.shields.io/badge/HTML-Bootstrap-blue?style=flat-square&logo=html5)](https://getbootstrap.com/) [![Selenium Python](https://img.shields.io/badge/Selenium-Python-orange?style=flat-square)](https://www.selenium.dev/) [![ECHARTS 4.8.0](https://img.shields.io/badge/ECHARTS-4.8.0-orange?style=flat-square&logo=apache-echarts)](https://echarts.apache.org/zh/index.html)
+[![Selenium Python](https://img.shields.io/badge/Selenium-Python-orange?style=flat-square)](https://www.selenium.dev/) [![ECHARTS 4.8.0](https://img.shields.io/badge/ECHARTS-4.8.0-orange?style=flat-square&logo=apache-echarts)](https://echarts.apache.org/zh/index.html)
 
 ##目录
 
@@ -20,13 +20,13 @@
 
   - [第四阶段](#第四阶段：视频拍摄、完善内容) 
 
-  - [文件目录](#文件目录）
+- [文件目录](#文件目录）
 
-  - [项目成员](#项目成员）
+- [项目成员](#项目成员）
 
-  - [致谢](#致谢)
+- [致谢](#致谢)
 
-  - [使用许可](#使用许可)
+- [使用许可](#使用许可)
   
  ## 项目背景
 
