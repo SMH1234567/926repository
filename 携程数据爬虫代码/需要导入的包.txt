@@ -1,0 +1,10 @@
+'''
+爬虫程序使用到的包
+'''
+
+import json
+import pickle
+import requests
+from bs4 import BeautifulSoup
+import pprint
+
