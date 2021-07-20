@@ -52,19 +52,19 @@
  
  完成时间：2021年7月20日
 
- ### 第四阶段：视频拍摄（未完成）
+ ### 第四阶段：视频拍摄（制作中）
  
  ## 文件目录（完善中）
  
  ## 项目成员
  
- <a href="https://github.com/Terrensou">@Terrensou (尹权智)</a>
+ <a href="https://github.com/quanzdksd">@quanzdksd (尹权智)</a>
  
- <a href="https://github.com/Terrensou">@Terrensou (时明辉)</a>
+ <a href="https://github.com/SMH1234567">@SMH1234567 (时明辉)</a>
 
- <a href="https://github.com/Terrensou">@Terrensou (朱子玉)</a>
+ <a href="https://github.com/zzy12345678910">@zzy12345678910 (朱子玉)</a>
  
- <a href="https://github.com/Terrensou">@Terrensou (李昊斐)</a>
+ <a href="https://github.com/FlorianTwo">@FlorianTwo (李昊斐)</a>
  
 ## 使用许可
 
